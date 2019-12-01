@@ -1,0 +1,32 @@
+<svg id="right_bg" data-name="right bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1119" viewBox="0 0 1920 1119">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.975" x2="0.184" y2="0.851" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#506ee4"/>
+      <stop offset="1" stop-color="#c623e0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_21" data-name="Rectangle 21" width="1920" height="1119" fill="#f1f1f1"/>
+  <path id="Intersection_1" data-name="Intersection 1" d="M1167.708,1714.838l-154.82-108.406a377.291,377.291,0,0,1-40.874-33.075H936.922q-7.63-6.83-14.806-14h35.663q-7.993-8.294-15.4-17H906.127c-2.613-2.96-5.188-5.971-7.7-9h36.526c-100.851-126.309-111.326-308.688-13.915-447.806l89.762-128.194H966.578l6.3-9h44.227l28.709-41h-44.228l9.8-14h44.227l151.945-217H1920V1292.5l-231.412,330.49c-72.752,103.9-188.8,159.505-306.688,159.515A372.2,372.2,0,0,1,1167.708,1714.838Z" transform="translate(0 -676.357)" fill="url(#linear-gradient)"/>
+  <g id="right_side_Background" data-name="right side Background">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="349" height="13" rx="6.5" transform="translate(886 245)" fill="#fff"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="349" height="6" rx="3" transform="translate(933 914)" fill="#fff"/>
+    <g id="desktop" transform="translate(-3 55)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="448" height="264" rx="25" transform="translate(1200 318)" fill="#f1f1f1"/>
+      <line id="Line_1" data-name="Line 1" x2="255" transform="translate(1255.5 390.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" x2="163" transform="translate(1255.5 418.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_3" data-name="Line 3" x2="213" transform="translate(1255.5 446.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_4" data-name="Line 4" x2="152" transform="translate(1255.5 483.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_10" data-name="Line 10" x2="152" transform="translate(1255.5 511.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_6" data-name="Line 6" x2="152" transform="translate(1255.5 497.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_8" data-name="Line 8" x2="152" transform="translate(1255.5 525.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_5" data-name="Line 5" x2="152" transform="translate(1445.5 483.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_11" data-name="Line 11" x2="152" transform="translate(1445.5 511.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_7" data-name="Line 7" x2="152" transform="translate(1445.5 497.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_9" data-name="Line 9" x2="152" transform="translate(1445.5 525.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="5"/>
+      <line id="Bar" x2="98" transform="translate(1375.5 607.5)" fill="none" stroke="#f1f1f1" stroke-linecap="round" stroke-width="29"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(1221 340)" fill="#eb5252"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(1238 340)" fill="#52eb9a"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(1255 340)" fill="#aea6a6"/>
+    </g>
+  </g>
+</svg>

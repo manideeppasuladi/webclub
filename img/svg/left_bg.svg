@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1045" viewBox="0 0 1920 1045">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="bg" width="1920" height="1045" transform="translate(0 4870)" fill="#f1f1f1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" y1="0.401" x2="0.009" y2="0.535" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c623e0"/>
+      <stop offset="1" stop-color="#506ee4"/>
+    </linearGradient>
+  </defs>
+  <g id="left_bg" data-name="left bg" transform="translate(0 -4870)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <rect id="blur_shape" data-name="blur shape" width="1693" height="1045" rx="374" transform="translate(1105.9 5915.25) rotate(180)" fill="url(#linear-gradient)"/>
+      <path id="Union_2" data-name="Union 2" d="M374,937C167.446,937,0,769.555,0,563V374C0,167.446,167.446,0,374,0h811a372.817,372.817,0,0,1,263.664,108.751H1589.1a7,7,0,1,1,0,14H1462.041a374.642,374.642,0,0,1,57.068,83h60.49a4.5,4.5,0,0,1,0,9h-56.1A372.5,372.5,0,0,1,1559,374V563a372.275,372.275,0,0,1-64.309,209.75H1538.6a4.5,4.5,0,0,1,0,9h-50.211q-6.275,8.687-13.033,17H1673.1a7,7,0,1,1,0,14h-209.7A373.066,373.066,0,0,1,1185,937Z" transform="translate(-562.099 4953.25)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="349" height="13" rx="6.5" transform="translate(802 5111)" fill="#fff"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="349" height="6" rx="3" transform="translate(664 5702)" fill="#fff"/>
+    <path id="ic_flash_on_24px" d="M7,2V153.36H48.28V277.2L144.6,112.08H89.56L144.6,2Z" transform="translate(596.2 5255.4)" fill="#f1f1f1"/>
+  </g>
+</svg>
